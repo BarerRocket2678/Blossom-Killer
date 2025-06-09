@@ -1,0 +1,9 @@
+[package]
+name = "blossom_killer"
+version = "1.1.0"
+authors = ["Cody Zavodsky"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
